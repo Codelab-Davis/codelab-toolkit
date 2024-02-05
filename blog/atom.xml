@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codelab-davis.github.io/codelab-toolkit/blog</id>
     <title>CodeLab Toolkit 🧰 Blog</title>
-    <updated>2024-01-26T00:00:00.000Z</updated>
+    <updated>2024-02-05T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://codelab-davis.github.io/codelab-toolkit/blog"/>
     <subtitle>CodeLab Toolkit 🧰 Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Introducing The Codelab Toolkit]]></title>
         <id>https://codelab-davis.github.io/codelab-toolkit/blog/introducing-codelab-toolkit</id>
         <link href="https://codelab-davis.github.io/codelab-toolkit/blog/introducing-codelab-toolkit"/>
-        <updated>2024-01-26T00:00:00.000Z</updated>
+        <updated>2024-02-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[We are excited to announce the release of the Codelab Toolkit, a new tool for Spark associates in CodeLab to learn common development patterns found in Spark Projects.]]></summary>
         <content type="html"><![CDATA[<p>We are excited to announce the release of the Codelab Toolkit, a new tool for Spark associates in CodeLab to learn common development patterns found in Spark Projects.</p>
 <p>We created the toolkit as a resource for CodeLab Spark developers to use beyond the bootcamps, to learn more specific topics and to have a reference for common patterns. Our goals were to:</p>
