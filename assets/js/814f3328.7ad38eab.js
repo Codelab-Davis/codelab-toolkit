@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktmp=self.webpackChunktmp||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Introducing The Codelab Toolkit","permalink":"/blog/introducing-codelab-toolkit","unlisted":false}]}')}}]);
