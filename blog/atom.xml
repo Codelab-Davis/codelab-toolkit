@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://codelab-davis.github.io/blog</id>
+    <title>CodeLab Toolkit 🧰 Blog</title>
+    <updated>2024-01-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://codelab-davis.github.io/blog"/>
+    <subtitle>CodeLab Toolkit 🧰 Blog</subtitle>
+    <icon>https://codelab-davis.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Introducing The Codelab Toolkit]]></title>
+        <id>https://codelab-davis.github.io/blog/introducing-codelab-toolkit</id>
+        <link href="https://codelab-davis.github.io/blog/introducing-codelab-toolkit"/>
+        <updated>2024-01-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce the release of the Codelab Toolkit, a new tool for Spark associates in CodeLab to learn common development patterns found in Spark Projects.]]></summary>
+        <content type="html"><![CDATA[<p>We are excited to announce the release of the Codelab Toolkit, a new tool for Spark associates in CodeLab to learn common development patterns found in Spark Projects.</p>
+<p>We created the toolkit as a resource for CodeLab Spark developers to use beyond the bootcamps, to learn more specific topics and to have a reference for common patterns. Our goals were to:</p>
+<ul>
+<li>Cover common and useful patterns that can be used in Spark projects, but are not necessarily fundamentals that need to be covered in the bootcamps.</li>
+<li>Provide a reference for developers to use when they need to implement a pattern in their project.</li>
+<li>Provide an interactive environment for developers to learn and practice the patterns.</li>
+<li>Deliver all this content in a way that is easy to maintain and update.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_S78e" id="what-is-the-codelab-toolkit">What is the Codelab Toolkit?<a href="https://codelab-davis.github.io/blog/introducing-codelab-toolkit#what-is-the-codelab-toolkit" class="hash-link" aria-label="Direct link to What is the Codelab Toolkit?" title="Direct link to What is the Codelab Toolkit?">​</a></h2>
+<p>The toolkit is a collection of pages that introduce a certain topic to the reader. There are also interactive code sandboxes that allow the reader to see the code work firsthand. The topics that are available in the toolkit on its initial release are:</p>
+<ul>
+<li><a href="https://codelab-davis.github.io/docs/guide/async">async/await</a></li>
+<li><a href="https://codelab-davis.github.io/docs/guide/useState">useState Hook</a></li>
+<li><a href="https://codelab-davis.github.io/docs/guide/useEffect">useEffect Hook</a></li>
+<li><a href="https://codelab-davis.github.io/docs/guide/useContext">useContext Hook</a></li>
+<li><a href="https://codelab-davis.github.io/docs/guide/useReducer">useReducer Hook</a></li>
+<li><a href="https://codelab-davis.github.io/docs/guide/conditional">Conditional Rendering</a></li>
+<li><a href="https://codelab-davis.github.io/docs/guide/tailwind">Default Theming with Tailwind CSS</a></li>
+<li><a href="https://codelab-davis.github.io/docs/guide/customHooks">Custom Hooks</a></li>
+<li><a href="https://codelab-davis.github.io/docs/guide/useMemoUseCallback">useMemo/useCallback Hooks</a></li>
+<li><a href="https://codelab-davis.github.io/docs/guide/authentication">Authentication with NextAuth</a></li>
+</ul>
+<p>While we are excited about the initial release, we are even more excited about the future of the toolkit. We have plans to add more topics, and we are also looking for feedback from the community on what topics they would like to see covered.</p>
+<h2 class="anchor anchorWithStickyNavbar_S78e" id="acknowledgements">Acknowledgements<a href="https://codelab-davis.github.io/blog/introducing-codelab-toolkit#acknowledgements" class="hash-link" aria-label="Direct link to Acknowledgements" title="Direct link to Acknowledgements">​</a></h2>
+<p>The CodeLab Toolkit would have never been possible without the help of the rest of the CodeLab Infrastructure Branch: <a href="https://www.linkedin.com/in/danderekma/" target="_blank" rel="noopener noreferrer">Derek Ma</a>, <a href="https://www.linkedin.com/in/pranava-parasa/" target="_blank" rel="noopener noreferrer">Pranava Parasa</a>, and <a href="https://www.linkedin.com/in/jason-nguyen-407980203/" target="_blank" rel="noopener noreferrer">Jason Nguyen</a>. And a special thanks to the CodeLab Software Education Branch for their collaboration, feedback, and support: <a href="https://www.linkedin.com/in/grisha-bandodkar/" target="_blank" rel="noopener noreferrer">Grisha Bandodkar</a>, <a href="https://www.linkedin.com/in/calvinchenn/" target="_blank" rel="noopener noreferrer">Calvin Chen</a>, <a href="https://www.linkedin.com/in/chris-gaw-75aa2b205/" target="_blank" rel="noopener noreferrer">Chris Gaw</a>, and <a href="https://www.linkedin.com/in/ethan-he-b0bb12221/" target="_blank" rel="noopener noreferrer">Ethan He</a>.</p>
+<p>And one more special mention - a big thank you to <a href="https://www.linkedin.com/in/caden-newton/" target="_blank" rel="noopener noreferrer">Caden Newton</a> who came up with the initial idea of the toolkit and helped us get it off the ground!</p>
+<h2 class="anchor anchorWithStickyNavbar_S78e" id="whats-next">What's next?<a href="https://codelab-davis.github.io/blog/introducing-codelab-toolkit#whats-next" class="hash-link" aria-label="Direct link to What's next?" title="Direct link to What's next?">​</a></h2>
+<ul>
+<li><a href="https://codelab-davis.github.io/docs/guide">Read our docs!</a></li>
+<li><a href="https://github.com/Codelab-Davis" target="_blank" rel="noopener noreferrer">Check out our GitHub</a></li>
+<li><a href="https://www.instagram.com/codelabdavis/" target="_blank" rel="noopener noreferrer">Follow our Instagram</a></li>
+</ul>]]></content>
+        <author>
+            <name>Keith Low</name>
+            <uri>https://www.linkedin.com/in/keith-loww/</uri>
+        </author>
+        <category label="release" term="release"/>
+        <category label="codelab" term="codelab"/>
+        <category label="toolkit" term="toolkit"/>
+    </entry>
+</feed>

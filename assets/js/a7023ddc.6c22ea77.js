@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktmp=self.webpackChunktmp||[]).push([[713],{3457:e=>{e.exports=JSON.parse('[{"label":"release","permalink":"/blog/tags/release","count":1},{"label":"codelab","permalink":"/blog/tags/codelab","count":1},{"label":"toolkit","permalink":"/blog/tags/toolkit","count":1}]')}}]);
