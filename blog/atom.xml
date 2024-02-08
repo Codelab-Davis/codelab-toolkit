@@ -2,11 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://toolkit.codelabdavis.com/blog</id>
     <title>CodeLab Toolkit 🧰 Blog</title>
-    <updated>2024-02-05T00:00:00.000Z</updated>
+    <updated>2024-02-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://toolkit.codelabdavis.com/blog"/>
     <subtitle>CodeLab Toolkit 🧰 Blog</subtitle>
     <icon>http://toolkit.codelabdavis.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CodeLab Toolkit 1.1]]></title>
+        <id>http://toolkit.codelabdavis.com/blog/3.1</id>
+        <link href="http://toolkit.codelabdavis.com/blog/3.1"/>
+        <updated>2024-02-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce the release of the Codelab Toolkit 1.1, our very first update to the toolkit. This release includes a new search feature, which allows you to search for topics and guides in the toolkit using the search bar in the upper right corner.]]></summary>
+        <content type="html"><![CDATA[<p>We are excited to announce the release of the <strong>Codelab Toolkit 1.1</strong>, our very first update to the toolkit. This release includes a new search feature, which allows you to search for topics and guides in the toolkit using the search bar in the upper right corner.</p>
+<p>We hope that this feature will make it easier for you to find the information you need to help you with your projects, as well as make it easier in the future as we continue to add more content to the docs.</p>
+<p>Happy Coding!</p>
+<p><img loading="lazy" alt="Search Bar" src="http://toolkit.codelabdavis.com/assets/images/search-735d781c85ec290cc605eceb3c559269.png" width="921" height="488" class="img_TIDR"></p>]]></content>
+        <author>
+            <name>Keith Low</name>
+            <uri>https://www.linkedin.com/in/keith-loww/</uri>
+        </author>
+        <category label="release" term="release"/>
+        <category label="codelab" term="codelab"/>
+        <category label="toolkit" term="toolkit"/>
+        <category label="search" term="search"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing The Codelab Toolkit]]></title>
         <id>http://toolkit.codelabdavis.com/blog/introducing-codelab-toolkit</id>

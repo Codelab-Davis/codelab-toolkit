@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktmp=self.webpackChunktmp||[]).push([[3722],{7859:a=>{a.exports=JSON.parse('{"label":"codelab","permalink":"/blog/tags/codelab","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);

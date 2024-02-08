@@ -4,10 +4,25 @@
         <title>CodeLab Toolkit 🧰 Blog</title>
         <link>http://toolkit.codelabdavis.com/blog</link>
         <description>CodeLab Toolkit 🧰 Blog</description>
-        <lastBuildDate>Mon, 05 Feb 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[CodeLab Toolkit 1.1]]></title>
+            <link>http://toolkit.codelabdavis.com/blog/3.1</link>
+            <guid>http://toolkit.codelabdavis.com/blog/3.1</guid>
+            <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[We are excited to announce the release of the Codelab Toolkit 1.1, our very first update to the toolkit. This release includes a new search feature, which allows you to search for topics and guides in the toolkit using the search bar in the upper right corner.]]></description>
+            <content:encoded><![CDATA[<p>We are excited to announce the release of the <strong>Codelab Toolkit 1.1</strong>, our very first update to the toolkit. This release includes a new search feature, which allows you to search for topics and guides in the toolkit using the search bar in the upper right corner.</p>
+<p>We hope that this feature will make it easier for you to find the information you need to help you with your projects, as well as make it easier in the future as we continue to add more content to the docs.</p>
+<p>Happy Coding!</p>
+<p><img loading="lazy" alt="Search Bar" src="http://toolkit.codelabdavis.com/assets/images/search-735d781c85ec290cc605eceb3c559269.png" width="921" height="488" class="img_TIDR"></p>]]></content:encoded>
+            <category>release</category>
+            <category>codelab</category>
+            <category>toolkit</category>
+            <category>search</category>
+        </item>
         <item>
             <title><![CDATA[Introducing The Codelab Toolkit]]></title>
             <link>http://toolkit.codelabdavis.com/blog/introducing-codelab-toolkit</link>
